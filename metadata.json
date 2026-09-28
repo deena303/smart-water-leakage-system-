@@ -1,0 +1,6 @@
+{
+  "name": "AquaGuard AI",
+  "description": "Smart water monitoring and leak detection platform that analyzes water consumption, detects unusual patterns, identifies affected zones, estimates leak risk, and gives actionable recommendations.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
